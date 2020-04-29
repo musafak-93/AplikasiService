@@ -12,7 +12,7 @@ public class WallpaperChangeService  extends Service implements Runnable{
     /* referensi gambar wallpaper disimpan dalam sebuah array, wallpaper1 dan
     * walpaper2 adalah nama file png atau jpg anda*/
 
-    private int wallpaperId[] = {R.drawable.wallpaper1, R.drawable.wallpaper2};
+    private int wallpaperId[] = {R.drawable.wallpaper3, R.drawable.wallpaper2};
     /* Deklarasi variable yang digunakan utk menyimpan durasi yang dipilih user*/
 
     private int waktu;
